@@ -1,0 +1,76 @@
+[
+    {
+        "_id":"1",
+        "title":"HTML" ,
+        
+        "details":"Cox’s Bazar is one of the most popular tourist spot in Bangladesh which is situated in the most southern part and the largest  (112 km) sea beach in the world. It is the best place to enjoy the scene of sunrise and sunset.  The cool fresh air and peaceful weather on the shore will surely make you relaxed. So for a serene and relaxing vacation, this place is mostly recommended to the visitors.",
+        
+        "img" : "https://i.postimg.cc/C1bMzZRt/html.png"
+       
+    },
+    {
+        "_id":"2",
+        "title":" CSS" ,
+        
+        "details":"Foy’s Lake is a theme park situated on 320 acres of land which is really a man-made theme park located in picturesque settings encompassed by lake, hills & green forest. It’s a unique gateway to Chittagong and the amusement world has lots of attractions like- park rides, boat rides, landscapes, resorts, & restaurants. ",
+        
+        "img" : "https://i.postimg.cc/bwKjkyfj/css.png"
+      
+
+    },
+    {
+        "_id":"3",
+        "title": "BootStrap",
+        
+        "details":"If you want to get away from busy city life then you can visit Patenga Sea Beach to enjoy the Bay of Bengal and the charming sunset. You can enjoy a water drive or boat trip here. There are also other entertainment facilities like a bike ride, horse ride, kites, etc. But the beach is narrow so it is better not to swim here.",
+        "img" : "https://i.postimg.cc/qMqfFhkT/boostrap.png"
+        
+    },
+    {
+        "_id":"4",
+        "title": " Tailwind ",
+        
+        "details":"If you want to see the land of the cloud in Bangladesh then you have to visit the queen of hills, Sajek Valley. Visiting this place will fulfill your dream of walking through the clouds. This is the best tourist spot in Bangladesh. The experience of going to Sajek by zigzag road through the cloud is really great. It is also called the roof of Rangamati because it is surrounded by hills. The valley is 1800 feet above from the sea level. If you are lucky enough, you can enjoy three forms of nature in a day",
+        
+        "img" : "https://i.postimg.cc/9fFyPhdJ/tailwind.png"
+       
+
+    },
+    {
+        "_id":"5",
+        "title": "JavaScript",
+        
+        "details":"Inani beach is known as a wonderful beach for its corals which become green in summer and rainy season. The blue water, sunrise, and sunset will help you to make you a memorable trip. You can bath here without any fear of a shark. You can see here crab, snail, sea fish, and many more creatures. The view of hills here will also touch your mind.",
+        
+        "img" : "https://i.postimg.cc/KYRRvvrS/jsvascript.png"
+        
+    },
+    {
+        "_id":"6",
+        "title": " React JS",
+        
+        "details":"Ratargul Swamp Forest is the only swamp forest in Bangladesh where you can enjoy different kinds of creatures here like monkey, eagle, insects, fish, birds, etc and this evergreen forest is located beside a river named Goain. You have to request and take permission from the forest office to arrange a boat to explore the forest. Monsoon is the best time to explore the forest.",
+        
+        "img" : "https://i.postimg.cc/8zw6z02W/react.png"
+      
+    },
+    {
+        "_id":"7",
+        "title": " Firebase",
+        
+        "details":"Ratargul Swamp Forest is the only swamp forest in Bangladesh where you can enjoy different kinds of creatures here like monkey, eagle, insects, fish, birds, etc and this evergreen forest is located beside a river named Goain. You have to request and take permission from the forest office to arrange a boat to explore the forest. Monsoon is the best time to explore the forest.",
+        
+        "img" : "https://i.postimg.cc/J7DFjhkh/ffbase.png"
+      
+    },
+    {
+        "_id":"8",
+        "title": " daisyUI",
+        
+        "details":"Ratargul Swamp Forest is the only swamp forest in Bangladesh where you can enjoy different kinds of creatures here like monkey, eagle, insects, fish, birds, etc and this evergreen forest is located beside a river named Goain. You have to request and take permission from the forest office to arrange a boat to explore the forest. Monsoon is the best time to explore the forest.",
+        
+        "img" : "https://i.postimg.cc/WpSKwNPg/ratargul.jpg"
+      
+    }
+    
+]
