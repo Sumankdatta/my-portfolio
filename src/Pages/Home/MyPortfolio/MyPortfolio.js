@@ -10,7 +10,9 @@ const MyPortfolio = () => {
     data-aos-duration="1500">
       <h1 className='text-white text-2xl ml-5'>My Portfolio</h1>
       <hr className='' />
-      <div className='grid lg:grid-cols-3 gap-6 mt-20'>
+      <div className='grid lg:grid-cols-3 gap-6 mt-20' data-aos="fade-down"
+    data-aos-easing="linear"
+    data-aos-duration="1500">
         <div className="w-72 bg-teal-800">
           <figure className='h-64 overflow-y-auto'><img className='' src={ss} alt="car!" /></figure>
           <div className="card-body text-center">
