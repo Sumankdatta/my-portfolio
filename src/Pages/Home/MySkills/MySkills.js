@@ -17,8 +17,10 @@ const MySkills = () => {
        data-aos-duration="1500">
         <h1 className='text-white text-2xl ml-5'>My Skills</h1>
             <hr className='' />
-            <p>{skills.length}</p>
-            <div className='grid lg:grid-cols-2 gap-5 h-3/12'>
+           
+            <div className='grid lg:grid-cols-2 gap-5 h-3/12 mt-24' data-aos="fade-down"
+       data-aos-easing="linear"
+       data-aos-duration="1500">
                 {
                     skills.map(skill=><MySkill
                     key={skill._id}

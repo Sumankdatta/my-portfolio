@@ -2,6 +2,7 @@ import React from 'react';
 import ss from '../../../assets/image/swanky.png'
 import edu from '../../../assets/image/education.png'
 import bike from '../../../assets/image/bikesales.png'
+import { Link } from 'react-router-dom';
 
 const MyPortfolio = () => {
   return (

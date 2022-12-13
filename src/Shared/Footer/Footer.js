@@ -1,10 +1,17 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Footer = () => {
     return (
-        <div>
-            <h1>This is footer</h1>
-        </div>
+        <footer className='mt-32' data-aos="fade-down"
+        data-aos-easing="linear"
+        data-aos-duration="1500">
+ 
+   
+    <p className='text-center'>Copyright © 2022 - All right reserved</p>
+
+  
+</footer>
     );
 };
 
